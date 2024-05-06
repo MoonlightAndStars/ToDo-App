@@ -100,7 +100,7 @@ ol li::before {
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(Images/unchecked.png);
+    background-image: url(unchecked.png);
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -113,7 +113,7 @@ ol li.checked {
 }
 
 ol li.checked::before {
-    background-image: url(Images/checked.jpg);
+    background-image: url(checked.jpg);
 }
 
 ol li span {
